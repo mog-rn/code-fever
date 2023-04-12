@@ -30,7 +30,7 @@ jest
 👤 **Amos Nyaburi**
 
 * Twitter: [@m\_ogakadev](https://twitter.com/m\_ogakadev)
-* Github: [@mogakamo](https://github.com/mogakamo)
+* Github: [@mog-rn](https://github.com/mog-rn)
 * LinkedIn: [@amos-nyaburi](https://linkedin.com/in/amos-nyaburi)
 
 ## Show your support
